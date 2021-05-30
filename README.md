@@ -24,3 +24,11 @@ Collection of STL files I've made.
 ### Anker 4-Port Ultra-Slim USB 3.0 Hub Underdesk Mount
 - Designed this bracket to mount a Anker 4-Port Ultra-Slim USB 3.0 Hub under my desk.
 - https://www.thingiverse.com/thing:4873610
+
+### 3090 FE 011D Mini Support Bracket
+- Designed this bracket to support my 3090 FE, it wasn't sagging at all but felt better having it supported.
+- https://www.thingiverse.com/thing:4873622
+
+### Audioengine HD3 Speaker Tripod Stand
+- Designed this stand to fit the base of a Audioengine HD3 Speaker so its able to be placed on top of a desk mount stand.
+- https://www.thingiverse.com/thing:4873625
