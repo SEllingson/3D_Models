@@ -32,3 +32,7 @@ Collection of STL files I've made.
 ### Audioengine HD3 Speaker Tripod Stand
 - Designed this stand to fit the base of a Audioengine HD3 Speaker so its able to be placed on top of a desk mount stand.
 - https://www.thingiverse.com/thing:4873625
+
+### Curtain String Command Strip Cleat
+- Designed to hang on side of window to provide a place to hang or wrap up a curtain string.
+- https://www.thingiverse.com/thing:4906218
