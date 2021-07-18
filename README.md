@@ -36,3 +36,7 @@ Collection of STL files I've made.
 ### Curtain String Command Strip Cleat
 - Designed to hang on side of window to provide a place to hang or wrap up a curtain string.
 - https://www.thingiverse.com/thing:4906218
+
+### Anker Lumos Lamp Pole Clip
+- I modeled this mount to clip to the pole of a HDX 4-Tier Metal Wire Shelving Unit to mount an old Anker Lumos Lamp.
+- https://www.thingiverse.com/thing:4911630
