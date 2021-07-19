@@ -15,7 +15,7 @@ Collection of STL files I've made.
 
 ### Presonus AudioBox iTwo Underdesk Mount
 - Designed this bracket to hang my Presonus AudioBox iTwo under my desk.
-- thingiverse.com/thing:4873606
+- https://www.thingiverse.com/thing:4873606
 
 ### Insignia USB Type-C Memory Card Reader Underdesk Mount
 - Designed this bracket to mount an Insignia USB Type-C Memory Card Reader under my desk.
@@ -40,3 +40,7 @@ Collection of STL files I've made.
 ### Anker Lumos Lamp Pole Clip
 - I modeled this mount to clip to the pole of a HDX 4-Tier Metal Wire Shelving Unit to mount an old Anker Lumos Lamp.
 - https://www.thingiverse.com/thing:4911630
+
+### Hair Spray Can Pole Clip
+- I modeled this mount to clip to the pole of a HDX 4-Tier Metal Wire Shelving Unit to hold a bottle of hair spray.
+- https://www.thingiverse.com/thing:4912301
