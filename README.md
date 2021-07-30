@@ -44,3 +44,7 @@ Collection of STL files I've made.
 ### Hair Spray Can Pole Clip
 - I modeled this mount to clip to the pole of a HDX 4-Tier Metal Wire Shelving Unit to hold a bottle of hair spray.
 - https://www.thingiverse.com/thing:4912301
+
+### PSA and CGC Vertical Card Stand
+- Created PSA and CGC sized slab stands. Used another users design as a guide.
+- https://www.thingiverse.com/thing:4920102
