@@ -48,3 +48,7 @@ Collection of STL files I've made.
 ### PSA and CGC Vertical Card Stand
 - Created PSA and CGC sized slab stands. Used another users design as a guide.
 - https://www.thingiverse.com/thing:4920102
+
+### Mini Electric Screwdriver Peg Board Mount
+- I modeled this peg board mount to hold my mini electric screwdriver and 39 2mm hex bits.
+- https://www.thingiverse.com/thing:4926179
