@@ -52,3 +52,7 @@ Collection of STL files I've made.
 ### Mini Electric Screwdriver Peg Board Mount
 - I modeled this peg board mount to hold my mini electric screwdriver and 39 2mm hex bits.
 - https://www.thingiverse.com/thing:4926179
+
+### Command Strip Headphone Hanger
+- Designed this headphone hanger that works with medium sized command strips.
+- https://www.thingiverse.com/thing:4934093
