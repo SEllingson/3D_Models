@@ -60,3 +60,7 @@ Collection of STL files I've made.
 ### GoPro Dual Battery Charger Mount
 - Designed to hold a GoPro Dual Battery Charger (Hero 9/Hero 10) so you can mount it on a surface with two screws.
 - https://www.thingiverse.com/thing:4969954
+
+### Raspberry Pi 4x4 Cluster Mount
+- Designed this small rack system to hold my PoE switch and 4 Raspberry Pis with PoE+ hats.
+- https://www.thingiverse.com/thing:4969966
