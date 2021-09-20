@@ -56,3 +56,7 @@ Collection of STL files I've made.
 ### Command Strip Headphone Hanger
 - Designed this headphone hanger that works with medium sized command strips.
 - https://www.thingiverse.com/thing:4934093
+
+### GoPro Dual Battery Charger Mount
+- Designed to hold a GoPro Dual Battery Charger (Hero 9/Hero 10) so you can mount it on a surface with two screws.
+- https://www.thingiverse.com/thing:4969954
